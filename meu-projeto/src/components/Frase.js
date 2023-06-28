@@ -1,7 +1,9 @@
+import styles from './Frase.module.css'
+
 function Frase() {
     return (
-        <div>
-    
+        <div className={styles.fraseContainer}> 
+            <p className={styles.fraseContent}> Frase teste para testar módulos CSS</p>
         </div>
     )
 }
