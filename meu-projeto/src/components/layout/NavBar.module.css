@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    list-style: none;
+    color: blue;
+  }
+  
+.item {
+    margin-right: 10px;
+  }
+  
