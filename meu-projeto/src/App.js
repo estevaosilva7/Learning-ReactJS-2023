@@ -6,6 +6,7 @@ import Contato from './components/pages/Contato';
 import NavBar from './components/layout/NavBar';
 import Footer from './components/layout/Footer';
 
+
 function App() {
   return(
     <Router>
